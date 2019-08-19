@@ -1,4 +1,4 @@
-package me.crystalprojects.crystalcore;
+package me.crystalprojects.crystalcore.stuff;
 
 public class Main {
 }
