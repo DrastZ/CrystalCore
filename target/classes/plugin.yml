@@ -1,0 +1,6 @@
+name: CrystalCore
+version: 1.0-SNAPSHOT
+main: me.crystalprojects.crystalcore.crystalcore.CrystalCore
+prefix: CrystalCore
+authors: [DrastZ_]
+description: The best Minecraft Core for your server
